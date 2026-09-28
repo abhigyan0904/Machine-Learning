@@ -1,0 +1,16 @@
+EarShape,FaceShape,Whiskers,Animal
+Pointy,Round,Yes,Cat
+Pointy,Round,Yes,Cat
+Pointy,Sharp,Yes,Cat
+Pointy,Sharp,Yes,Cat
+Floppy,Round,No,Dog
+Floppy,Sharp,No,Dog
+Floppy,Sharp,No,Dog
+Floppy,Round,No,Dog
+Pointy,Round,No,Dog
+Pointy,Sharp,No,Dog
+Floppy,Round,Yes,Dog
+Pointy,Round,Yes,Cat
+Floppy,Sharp,Yes,Dog
+Pointy,Sharp,Yes,Cat
+Floppy,Round,No,Dog
