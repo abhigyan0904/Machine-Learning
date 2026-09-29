@@ -188,9 +188,9 @@ Please keep new modules consistent with the existing layout: one folder, one scr
 
 ## Author
 
-**[Your Name]**
-GitHub: [@your-username](https://github.com/your-username)
-LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+**[Abhigyan Aryan]**
+GitHub: [https://github.com/abhigyan0904](https://github.com/your-username)
+LinkedIn: [https://www.linkedin.com/in/abhigyan-aryan/](https://www.linkedin.com/in/your-profile)
 
 ---
 
